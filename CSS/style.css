@@ -8,6 +8,8 @@
 body {
   font-family:'Roboto', sans-serif ;
   line-height: 1.4;
+  display: flex;
+  justify-items: center;
 }
 
 a {
